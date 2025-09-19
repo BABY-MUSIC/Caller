@@ -11,8 +11,8 @@ from pyrogram.types import (
 # ================== CONFIG ==================
 API_ID = int(os.getenv("API_ID", "24168862"))       
 API_HASH = os.getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
-BOT_TOKEN = os.getenv("BOT_TOKEN", "BOT_TOKEN")
-OWNER_ID = int(os.getenv("OWNER_ID", "7473021518"))
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8288250166:AAFRLjfT3JUCIxVqwGbTMC1D69AeLxHwNNA")
+OWNER_ID = int(os.getenv("OWNER_ID", "6657539971"))
 
 REQUIRED_CHANNELS = [
     ("ᴊᴏɪɴ", "https://t.me/PURVI_BOTS"),
