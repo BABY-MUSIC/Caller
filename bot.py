@@ -15,17 +15,17 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8288250166:AAFRLjfT3JUCIxVqwGbTMC1D69AeLxHwN
 OWNER_ID = int(os.getenv("OWNER_ID", "6657539971"))
 
 REQUIRED_CHANNELS = [
-    ("ᴊᴏɪɴ", "https://t.me/PURVI_BOTS"),
-    ("ᴊᴏɪɴ", "https://t.me/PURVIBOTS"),
-    ("ᴊᴏɪɴ", "https://t.me/ONE_WAS_SIGMA"), 
-    ("ᴊᴏɪɴ", "https://t.me/CARELESS_CODER")
+    ("ᴊᴏɪɴ", "https://t.me/Userfindnum_india"),
+    ("ᴊᴏɪɴ", "https://t.me/+yf3D2oZeWJNjZDE9"),
+    ("ᴊᴏɪɴ", "https://t.me/RadhikaCommunity"), 
+    ("ᴊᴏɪɴ", "https://t.me/+KO-NImIfAwM5NDll")
 ]
 
 CHANNEL_USERNAMES = [
-    "PURVI_BOTS",
-    "PURVIBOTS", 
-    "ONE_WAS_SIGMA",
-    "CARELESS_CODER"
+    "Userfindnum_india",
+    "Userfindnum_india", 
+    "RadhikaCommunity",
+    "RadhikaCommunity"
 ]
 
 START_IMG = "https://files.catbox.moe/2y5o3g.jpg"
