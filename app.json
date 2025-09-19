@@ -6,19 +6,19 @@
   "env": {
     "API_ID": {
       "description": "Telegram API ID",
-      "required": true
+      "required": false
     },
     "API_HASH": {
       "description": "Telegram API HASH",
-      "required": true
+      "required": false
     },
     "BOT_TOKEN": {
       "description": "Telegram Bot Token",
-      "required": true
+      "required": false
     },
     "OWNER_ID": {
       "description": "Owner User ID",
-      "required": true
+      "required": false
     }
   }
 }
