@@ -1,0 +1,24 @@
+{
+  "name": "Number Info Finder Bot",
+  "description": "Telegram bot to fetch number details with subscription check",
+  "repository": "https://github.com/yourusername/numberinfobot",
+  "keywords": ["telegram", "bot", "pyrogram"],
+  "env": {
+    "API_ID": {
+      "description": "Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Telegram API HASH",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Owner User ID",
+      "required": true
+    }
+  }
+}
